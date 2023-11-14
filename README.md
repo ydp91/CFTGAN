@@ -2,7 +2,7 @@
 The code of Stylized Crowd Formation Transformation through Spatio-Temporal Adversarial Learning
 
 Some of the training data used in our paper are from real large-scale performance events, which we are not authorized to make public. Therefore, we only provide partial test data.
-The generated demo 
+
 The generated results are shown below.
 ![Demo1](https://github.com/ydp91/CFTGAN/blob/master/demo/1.circle-star.gif)
 ![Demo2](https://github.com/ydp91/CFTGAN/blob/master/demo/2.pkq-pkq.gif)
