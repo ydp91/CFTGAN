@@ -1,5 +1,6 @@
 # CFTGAN
 The code of Stylized Crowd Formation Transformation through Spatio-Temporal Adversarial Learning
+https://doi.org/10.1002/aisy.202300563
 
 Some of the training data used in our paper are from real large-scale performance events, which we are not authorized to make public. Therefore, we only provide partial test data.
 
